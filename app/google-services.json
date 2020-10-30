@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752094750137",
+    "firebase_url": "https://jotham-gadsproject.firebaseio.com",
+    "project_id": "jotham-gadsproject",
+    "storage_bucket": "jotham-gadsproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752094750137:android:fb262f6cd7b922a2ec0268",
+        "android_client_info": {
+          "package_name": "com.example.jotham_gadsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752094750137-nfgsmqdtps6kiitjhau4veugj6rjl89h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jotham_gadsproject",
+            "certificate_hash": "5884f820d69f4b3a69e18139b578d705acd4fda0"
+          }
+        },
+        {
+          "client_id": "752094750137-gmlnlqah2md844hm35k74h371jv8gib1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkM8C_AtGqNfUnhV0di3afPdwpHWj3G6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752094750137-gmlnlqah2md844hm35k74h371jv8gib1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
